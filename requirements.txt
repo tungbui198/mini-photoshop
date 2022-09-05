@@ -1,0 +1,7 @@
+torch>=1.11.0
+scikit-image==0.19.3
+tqdm
+gdown
+opencv-python
+streamlit
+streamlit-drawable-canvas
